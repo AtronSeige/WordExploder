@@ -19,7 +19,7 @@ dwyl's english-words repo.
 
 ## WHY?
 I find this database handy when trying to solve puzzles. I can quickly search for words if I know the length of the word, even better if I know the location of a character.\
-The bigger plan is use this in a planned application that solved anagrams and helps with Wordle.\
+The bigger plan is use this in a planned application that solved anagrams and helps with Wordle.
 
 
 ## Future plans
